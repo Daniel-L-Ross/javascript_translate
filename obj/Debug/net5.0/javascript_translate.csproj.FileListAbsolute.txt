@@ -1,0 +1,15 @@
+/Users/danielross/workspace/csharp/javascript_translate/bin/Debug/net5.0/javascript_translate.deps.json
+/Users/danielross/workspace/csharp/javascript_translate/bin/Debug/net5.0/javascript_translate.runtimeconfig.json
+/Users/danielross/workspace/csharp/javascript_translate/bin/Debug/net5.0/javascript_translate.runtimeconfig.dev.json
+/Users/danielross/workspace/csharp/javascript_translate/bin/Debug/net5.0/javascript_translate.dll
+/Users/danielross/workspace/csharp/javascript_translate/bin/Debug/net5.0/ref/javascript_translate.dll
+/Users/danielross/workspace/csharp/javascript_translate/bin/Debug/net5.0/javascript_translate.pdb
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.csproj.AssemblyReference.cache
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.AssemblyInfoInputs.cache
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.AssemblyInfo.cs
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.csproj.CoreCompileInputs.cache
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.dll
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/ref/javascript_translate.dll
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.pdb
+/Users/danielross/workspace/csharp/javascript_translate/obj/Debug/net5.0/javascript_translate.genruntimeconfig.cache
