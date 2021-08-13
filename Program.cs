@@ -5,8 +5,31 @@ using System.Text.RegularExpressions;
 Main();
 void Main()
 {
-    string text = Regex.Replace(Text(), "/[^a-zA-Z ]/g", "");
-    string[] words = text.Split(' ')
+    string text = Regex.Replace(Text(), "[^a-zA-Z ]", "");
+    string[] words = text.Split(' ');
+    Dictionary<string, int> wordFreq = new Dictionary<string, int>();
+    
+    foreach (string word in words)
+    {
+        if (word.Trim() == "")
+        {
+            continue;
+        }
+
+        if (wordFreq.ContainsKey(word))
+        {
+            wordFreq[word] += 1;
+        }
+        else 
+        {
+            wordFreq.Add(word, 1);
+        }
+    }
+
+    foreach (KeyValuePair<string, int> pair in wordFreq)
+    {
+        Console.WriteLine(string.Format("{0}: {1}", pair.Key, pair.Value));
+    }
 }
 
 string Text()
